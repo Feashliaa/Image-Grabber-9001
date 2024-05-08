@@ -128,3 +128,5 @@ dist
 
 # ignore the .imageCache folder
 .imageCache
+
+imageCache/
